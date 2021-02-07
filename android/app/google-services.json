@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276347939208",
+    "project_id": "market-d2da7",
+    "storage_bucket": "market-d2da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276347939208:android:d37f9999de4641b51db23d",
+        "android_client_info": {
+          "package_name": "com.amroid.allam_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276347939208-vtubcm1rp00pehbicd3nph9k4ablou1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuYLrugGybseVhJEipo3RHx_xmaJs7fps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276347939208-vtubcm1rp00pehbicd3nph9k4ablou1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
